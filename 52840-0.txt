@@ -1,101 +1,60 @@
+*** START OF THE PROJECT GUTENBERG EBOOK 52840 ***
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
+SALVATION UNIVERSAL
 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-<title>
-The Project Gutenberg E-text of Salvation Universal, by Joseph Fielding Smith
-</title>
-<link rel="coverpage" href="images/cover.jpg">
-<style TYPE="text/css">
-body { color: Black;  background: White; margin-right: 10%; margin-left: 10%;
-       font-family: "Times New Roman", serif; text-align: justify }
+By JOSEPH FIELDING SMITH
 
-h1 { text-align: center }
 
-h2 { text-align: center; padding-top: 15%; }
+PUBLISHED BY THE GENEALOGICAL SOCIETY OF UTAH 1920
 
-h3 { text-align: center; padding-top: 4%; }
 
-h4 { text-align: center }
+_THE GENEALOGICAL SOCIETY OF UTAH._
 
-.centered {text-align: center}
+Organized November 13, 1894.
 
-p.footnote {text-indent: 0% ;
-            font-size: 80%;
-            margin-left: 10% ;
-            margin-right: 10% }
-
-sup { font-size: 60%}
-
-.sidenote { right: 0%; font-size: 80%; text-align: right; text-indent: 0%; width: 17%;
-    float: right; clear: right; padding-right: 0%; padding-left: 1%; padding-top: 1%;
-    padding-bottom: 1%; font-style: normal; font-weight: normal; font-variant: normal; }
-</style>
-
-</head>
-
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 52840 ***</div>
-
-<h1>SALVATION UNIVERSAL
-</h1>
-
-<p class="centered">By JOSEPH FIELDING SMITH
-</p>
-
-<p class="centered">PUBLISHED BY THE GENEALOGICAL SOCIETY OF UTAH<br> 1920<br> <br> <br> <br>
-</p>
-<hr>
-<p class="centered"><em>THE GENEALOGICAL SOCIETY OF UTAH.</em></p>
-<p class="centered">Organized November 13, 1894.
-</p>
-
-<p>Anthon H. Lund, President; Charles W. Penrose, Vice President; Joseph
+Anthon H. Lund, President; Charles W. Penrose, Vice President; Joseph
 Fielding Smith, Secy. and Treas.; Joseph Christenson, Librarian;
 Lillian Cameron and Nephi Anderson, Assistant Librarians.
-</p>
-<p>DIRECTORS: Anthon H. Lund, Charles W. Penrose, Joseph Christenson,
-Joseph Fielding Smith, Anthony W. Ivins, Hyrum G. Smith.
-</p>
-<p>Life Membership, $10, with two years in which to pay. Annual
-membership, $2 the first year, $1 yearly thereafter.
-</p>
-<hr>
-<p class="centered"><em>The Utah Genealogical and Historical Magazine.</em>
-</p>
-<p class="centered">Published by the Genealogical Society of Utah.
-</p>
-<p class="centered">QUARTERLY, $1.50 PER ANNUM
-</p>
-<p>Anthon H. Lund, Editor; Nephi Anderson, Associate Editor
-</p>
-<p>Subscription price to life and paid-up annual members of the
-Genealogical Society, $1.00 a year. Address all communications to
-</p>
-<p class="centered">GENEALOGICAL SOCIETY OF UTAH
-<br>47 East South Temple Street, Salt Lake
-City, Utah.
-</p>
-<hr>
 
-<h2><a name="SALVATIONUNIVERSAL"></a>Salvation Universal.
-</h2>
-<p class="centered">BY ELDER JOSEPH FIELDING SMITH
-</p>
-<p>The greatest of all the gifts of God unto his children, is the gift of
-salvation.<sup>[A]</sup>
-</p>
-<p class="footnote">[Footnote A: Doc. &amp; Cov. 6:13.]
-</p>
-<p>The greatest of all his works, to bring to pass the immortality and
-eternal life of man, which constitutes his glory.<sup>[B]</sup>
-</p>
-<p class="footnote">[Footnote B: Book of Moses 1:39.]
-</p>
-<p>For this grand and glorious purpose, worlds are created by him and
+DIRECTORS: Anthon H. Lund, Charles W. Penrose, Joseph Christenson,
+Joseph Fielding Smith, Anthony W. Ivins, Hyrum G. Smith.
+
+Life Membership, $10, with two years in which to pay. Annual
+membership, $2 the first year, $1 yearly thereafter.
+
+
+_The Utah Genealogical and Historical Magazine._
+
+Published by the Genealogical Society of Utah.
+
+QUARTERLY, $1.50 PER ANNUM
+
+Anthon H. Lund, Editor; Nephi Anderson, Associate Editor
+
+Subscription price to life and paid-up annual members of the
+Genealogical Society, $1.00 a year. Address all communications to
+
+GENEALOGICAL SOCIETY OF UTAH
+47 East South Temple Street, Salt Lake City, Utah.
+
+
+
+Salvation Universal.
+
+BY ELDER JOSEPH FIELDING SMITH
+
+The greatest of all the gifts of God unto his children, is the gift of
+salvation.[A]
+
+[Footnote A: Doc. & Cov. 6:13.]
+
+The greatest of all his works, to bring to pass the immortality and
+eternal life of man, which constitutes his glory.[B]
+
+[Footnote B: Book of Moses 1:39.]
+
+For this grand and glorious purpose, worlds are created by him and
 peopled with his children. He gives to them his commandments, granting
 the power to choose for themselves whether or not they will obey. Those
 who obey him in all things he has promised great blessings, they shall
@@ -103,8 +62,8 @@ be added upon in his celestial kingdom for ever and ever, and shall be
 crowned with the fullness of his glory. But to those who reject laws,
 and become a law unto themselves in unrighteousness, shall punishment
 be meted out according to their evil deeds.
-</p>
-<p>The plan of salvation, or code of laws, which is known as the gospel
+
+The plan of salvation, or code of laws, which is known as the gospel
 of Jesus Christ, was adopted in the heavens, before the foundation of
 the world was laid. It was appointed there that Adam our father should
 come to this earth and stand at the head of the whole human family. It
@@ -116,19 +75,19 @@ revelation, have learned that such was necessary in order that man
 should have his agency and, through the various vicissitudes he has to
 pass, receive a knowledge of both good and evil, without which it would
 be impossible for him to gain the exaltation prepared for him.
-</p>
-<p>It was also necessary because of Adam's transgression for the Only
+
+It was also necessary because of Adam's transgression for the Only
 Begotten Son of the Father to come to redeem the world from Adam's
 fall. This also was a part of the plan chosen before the earth was
 made, for Jesus is called the Lamb that was slain from the foundation
-of the world. He came and redeemed us from the fall&mdash;even all the
+of the world. He came and redeemed us from the fall--even all the
 inhabitants of the earth. Not only did he redeem us from Adam's
 transgression, but he also redeemed us from our own sins, on condition
-that we obey the laws and ordinances of the gospel.<sup>[D]</sup>
-</p>
-<p class="footnote">[Footnote D: Heb. 5:9; Matt. 7:21; John 1:3-6.]
-</p>
-<p>"And now, behold," said the Prophet Lehi to his son Jacob, "if Adam had
+that we obey the laws and ordinances of the gospel.[D]
+
+[Footnote D: Heb. 5:9; Matt. 7:21; John 1:3-6.]
+
+"And now, behold," said the Prophet Lehi to his son Jacob, "if Adam had
 not transgressed, he would not have fallen; but he would have remained
 in the Garden of Eden. And all things which were created must have
 remained in the same state in which they were, after they were created;
@@ -138,54 +97,54 @@ innocence, having no joy, for they knew no misery; doing no good, for
 they knew no sin. But behold, all things have been done in the wisdom
 of him who knoweth all things. Adam fell that men might be; and men
 are, that they might have joy.
-</p>
-<p>"And the Messiah cometh in the fullness of time, that he may redeem the
+
+"And the Messiah cometh in the fullness of time, that he may redeem the
 children of men from the fall. And because they are redeemed from the
 fall, they have become free for ever, knowing good from evil; to act
 for themselves, and not to be acted upon, save it be by the punishment
 of the law at the great and last day, according to the commandments
 which God hath given.
-</p>
-<p>"Wherefore, men are free according to the flesh; and all things are
+
+"Wherefore, men are free according to the flesh; and all things are
 given them which are expedient unto man. And they are free to choose
 liberty and eternal life, through the great mediation of all men, or
 to choose captivity and death, according to the captivity and power of
 the devil; for he seeketh that all men might be miserable like unto
-himself."<sup>[C]</sup>
-</p>
-<p class="footnote">[Footnote C: II Nephi 2:22-27.]
-</p>
-<p>The primary and fundamental principles of this plan of salvation are:
-</p>
-<p>First: Faith in God the Father, in his Son Jesus Christ and in the Holy
+himself."[C]
+
+[Footnote C: II Nephi 2:22-27.]
+
+The primary and fundamental principles of this plan of salvation are:
+
+First: Faith in God the Father, in his Son Jesus Christ and in the Holy
 Ghost. We must accept them as the presiding authority in the heavens,
 who govern and control all things, who are omnipotent, just and true.
-</p>
-<p>Second: We must accept the infinite atonement of Christ, believing that
+
+Second: We must accept the infinite atonement of Christ, believing that
 he is the Redeemer of the world, both from Adam's transgression and
 from our individual sins on condition of our repentance.
-</p>
-<p>Third: We must repent of all our sins, giving our hearts to God, with
+
+Third: We must repent of all our sins, giving our hearts to God, with
 the full intent of serving him.
-</p>
-<p>Fourth: We must be baptized in water for the remission of our sins,
+
+Fourth: We must be baptized in water for the remission of our sins,
 by one who is called of God and clothed with divine authority to
 administer in the ordinances of the gospel.
-</p>
-<p>Fifth: We must have the hands of those holding authority placed upon
+
+Fifth: We must have the hands of those holding authority placed upon
 our heads, and through their ministrations receive the baptism of the
-Holy Ghost,&mdash;the spirit of Truth and Prophecy that guides us in all
+Holy Ghost,--the spirit of Truth and Prophecy that guides us in all
 truth.
-</p>
-<p>Sixth: We must be willing to serve the Lord with all our heart, mind
+
+Sixth: We must be willing to serve the Lord with all our heart, mind
 and strength, keeping his commandments even unto the end.
-</p>
-<p>Upon these laws, salvation is based, and the promised blessings are
+
+Upon these laws, salvation is based, and the promised blessings are
 unto all men. These conditions are not severe, nor grievous, and are
 within the power of the weakest of the weak, if they will only place
 their trust in their Redeemer.
-</p>
-<p>All who repent and obey these laws, will be redeemed and saved from
+
+All who repent and obey these laws, will be redeemed and saved from
 the sins of the world; but they who refuse and repent not, will have
 to suffer for their own sins. The Lord says: "He created man, male and
 female, after his own image and in his own likeness created he them,
@@ -204,22 +163,22 @@ who believed after he came in the meridian of time, in the flesh, but
 all those from the beginning, even as many as were before he came, who
 believed in the words of the holy prophets, who spake as [Transcriber's
 note: sentence leaves off here in the original.]
-</p>
-<p>Moreover, he further says: "And surely every man must repent or suffer,
-for I God am endless: * * * Therefore I command you to repent&mdash;repent,
+
+Moreover, he further says: "And surely every man must repent or suffer,
+for I God am endless: * * * Therefore I command you to repent--repent,
 lest I smite you by the rod of my mouth, and by my wrath, and by my
-anger, and your sufferings be sore&mdash;how sore you know not! For behold,
+anger, and your sufferings be sore--how sore you know not! For behold,
 I, God, have suffered these things for all, that they might not suffer
 if they would repent, but if they would not repent, they must suffer
 even as I, which suffering caused myself, even God, the greatest of
 all, to tremble because of pain, and to bleed at every pore, and to
 suffer both in body and spirit: and would that I might not drink the
-bitter cup and shrink&mdash;nevertheless, glory be to the Father, and I
-partook and finished my preparations unto the children of men."<sup>[G]</sup>
-</p>
-<p class="footnote">[Footnote G: Doc. &amp; Cov. 19:4, 15-19.]
-</p>
-<p>These principles were taught to Adam after he was driven from the
+bitter cup and shrink--nevertheless, glory be to the Father, and I
+partook and finished my preparations unto the children of men."[G]
+
+[Footnote G: Doc. & Cov. 19:4, 15-19.]
+
+These principles were taught to Adam after he was driven from the
 Garden of Eden, who repented and was baptized in water for the
 remission of his sins, and received the Holy Ghost. And Eve, when
 she heard the gospel plan, rejoiced, saying: "Were it not for our
@@ -227,11 +186,11 @@ transgression, we never should have had seed, and never should have
 known good and evil, and the joy of our redemption, and the eternal
 life which God giveth unto all the obedient. And Adam and Eve blessed
 the name of God, and they made all things known to their sons and
-daughters."<sup>[H]</sup>
-</p>
-<p class="footnote">[Footnote H: Book of Moses 5:11-12.]
-</p>
-<p>Thus the principles of the gospel were taught from the beginning among
+daughters."[H]
+
+[Footnote H: Book of Moses 5:11-12.]
+
+Thus the principles of the gospel were taught from the beginning among
 the children of Adam. Some believed and accepted them, many others
 rejected them, bringing down upon their heads the wrath of God, for his
 anger was kindled against them because of their rebellion. In course of
@@ -240,57 +199,57 @@ caused the floods to come upon them, sweeping them off the earth. Noah,
 who was a preacher of righteousness, continued to preach these saving
 principles. The gospel was also taught to Abraham, and has always been
 among men when they were prepared to receive it.
-</p>
-<p>Latter-day Saints have been severely criticised by many professing
+
+Latter-day Saints have been severely criticised by many professing
 Christians for believing it necessary to comply with these first
 principles of the gospel. We are told that such views make us narrow
 and illiberal, for we reject and damn all who do not accept "Mormonism"
 and the ministration of our elders, while they on the other hand, give
 a broader interpretation of the scriptures, holding it but necessary to
-believe in Christ&mdash;to confess him with the mouth and to believe in the
+believe in Christ--to confess him with the mouth and to believe in the
 heart that Christ was raised from the dead.
-</p>
-<p>Or, as it is expressed,
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;Nothing, either great or small,<br>
-&nbsp;&nbsp;&nbsp;&nbsp; Remains for me to do;<br>
-&nbsp;&nbsp;Nothing&mdash;Jesus paid it all,<br>
-&nbsp;&nbsp;&nbsp;&nbsp; All the debt I owe.<br>
-</p></blockquote>
-<p>Nevertheless, there is but one plan of salvation, and one door into the
+
+Or, as it is expressed,
+
+  Nothing, either great or small,
+     Remains for me to do;
+  Nothing--Jesus paid it all,
+     All the debt I owe.
+
+Nevertheless, there is but one plan of salvation, and one door into the
 sheepfold, "He that entereth not by the door into the sheepfold, but
-climbeth up some other way, the same is a thief and a robber."<sup>[I]</sup>
-</p>
-<p class="footnote">[Footnote I: John 10:1.]
-</p>
-<p>We have not made the way narrow nor the gate strait, that few there be
+climbeth up some other way, the same is a thief and a robber."[I]
+
+[Footnote I: John 10:1.]
+
+We have not made the way narrow nor the gate strait, that few there be
 that find it! Nor was ours the edict, "Not every one that saith Lord,
 Lord, shall enter into the kingdom of heaven, but he that doeth the
-will of the father."<sup>[J]</sup>
-</p>
-<p class="footnote">[Footnote J: Matt. 7th chapter.]
-</p>
-<p>The fact that certain laws must be observed, and ordinances complied
+will of the father."[J]
+
+[Footnote J: Matt. 7th chapter.]
+
+The fact that certain laws must be observed, and ordinances complied
 with, is not the ruling of the Latter-day Saints, but the divine
 mandate of the Author of our salvation, who has said he will judge all
 men according to their works and opportunities. We are merely complying
 with the teachings of the Master which we have received, and which are
 requisite to salvation.
-</p>
-<p>If belief alone were sufficient, then even the devils, who fear and
+
+If belief alone were sufficient, then even the devils, who fear and
 tremble, would be saved. They recognized the Savior and declared on
-several occasions that he was the Son of God.<sup>[K]</sup> And the devils in the
+several occasions that he was the Son of God.[K] And the devils in the
 days of the sons of Sceva declared that they knew Jesus and Paul, yet
-they were far from the road to salvation.<sup>[L]</sup>
-</p>
-<p class="footnote">[Footnote K: Mark 5:2-9; Luke 4:33-34.]
-</p>
-<p class="footnote">[Footnote L: Acts 19:15.]
-</p>
-<p>Notwithstanding the apparently narrow construction of the Latter-day
-Saints pertaining to the scriptures&mdash;and we most emphatically declare
+they were far from the road to salvation.[L]
+
+[Footnote K: Mark 5:2-9; Luke 4:33-34.]
+
+[Footnote L: Acts 19:15.]
+
+Notwithstanding the apparently narrow construction of the Latter-day
+Saints pertaining to the scriptures--and we most emphatically declare
 that all men must obey these laws if they would be saved, excepting
-those who die without law, and therefore are not judged by law<sup>[M]</sup>&mdash;we
+those who die without law, and therefore are not judged by law[M]--we
 are broader and more liberal in our teachings than the believers in
 the faith-only theory of salvation, who would save all who profess a
 belief in the name of the Redeemer, but reject all others, consigning
@@ -300,71 +259,71 @@ who lived at a time or place that the knowledge of the Redeemer of the
 world could not reach them. They would reject this vast majority of the
 human family, men women and children, to eternal damnation, without the
 fault being their own!
-</p>
-<p class="footnote">[Footnote M: Moroni 8:22.]
-</p>
-<p>With the Latter-day Saints this is not so. While it is true we teach
+
+[Footnote M: Moroni 8:22.]
+
+With the Latter-day Saints this is not so. While it is true we teach
 that a man must comply with these principles of the gospel in order
-to receive salvation and exaltation in the kingdom of heaven&mdash;which
-is proved by many passages of scripture&mdash;nevertheless, we hold out
-the hope that all may be saved, excepting the sons of perdition&mdash;a
+to receive salvation and exaltation in the kingdom of heaven--which
+is proved by many passages of scripture--nevertheless, we hold out
+the hope that all may be saved, excepting the sons of perdition--a
 class that willfully rejects the atonement of the Savior: for the
 Lord intends to save all the workmanship of his hands, save these few
 who will not receive salvation. Our doctrine consigns none others to
 perdition, but holds forth the hope that all will eventually be saved
 in the kingdom of God at some time and in some degree of glory.
-</p>
-<p>Little children are redeemed from the foundation of the world through
+
+Little children are redeemed from the foundation of the world through
 the atonement, "Wherefore, they cannot sin," the Lord has said, "for
 power is not given unto Satan to tempt little children, until they
 begin to become accountable before me; for it is given unto them even
 as I will, according to mine own pleasure, that great things may be
 required at the hand of their fathers. And again, I say unto you, that
-whoso having knowledge, have I not commanded to repent?"<sup>[N]</sup>
-</p>
-<p class="footnote">[Footnote N: Doc. &amp; Cov. 29:46-49.]
-</p>
-<p>He that declares that little children are born in sin, and therefore
+whoso having knowledge, have I not commanded to repent?"[N]
+
+[Footnote N: Doc. & Cov. 29:46-49.]
+
+He that declares that little children are born in sin, and therefore
 require baptism, denies the mercy of the father and does not understand
 the nature and significance of the atonement. The Savior said: "Suffer
 little children and forbid them not to come unto me, for of such is the
 kingdom of heaven." The Prophet Mormon sums the whole matter up in the
 following words:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;Little children cannot repent; wherefore it is awful wickedness<br>
-&nbsp;&nbsp;to deny the pure mercies of God unto them, for they are<br>
-&nbsp;&nbsp;all alive in him because of his mercy.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;And he that saith, that little children need baptism, denieth<br>
-&nbsp;&nbsp;the mercies of Christ, and setteth at naught the atonement of<br>
-&nbsp;&nbsp;him and the power of his redemption.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;Wo unto such, for they are in danger of death, hell, and<br>
-&nbsp;&nbsp;endless torment. I speak it boldly, God hath commanded me.<br>
-&nbsp;&nbsp;Listen unto them and give heed, or they stand against you at the<br>
-&nbsp;&nbsp;judgment seat of Christ.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;For behold that all little children are alive in Christ, and<br>
-&nbsp;&nbsp;also all they that are without the law. For the power of redemption<br>
-&nbsp;&nbsp;cometh on all they that have no law; wherefore, he<br>
-&nbsp;&nbsp;that is not condemned, or he that is under no condemnation,<br>
-&nbsp;&nbsp;cannot repent; and unto such baptism availeth nothing.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;But it is mockery before God, denying the mercies of Christ,<br>
-&nbsp;&nbsp;and the power of His Holy Spirit, and putting trust in dead<br>
-&nbsp;&nbsp;works.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;Behold, my son, this thing ought not to be; for repentance<br>
-&nbsp;&nbsp;is unto them that are under condemnation and under the curse<br>
-&nbsp;&nbsp;of a broken law.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;And the first fruits of repentance is baptism, and baptism<br>
-&nbsp;&nbsp;cometh by faith, unto the fulfilling of the commandments; and<br>
-&nbsp;&nbsp;the fulfilling of commandments bringeth remission of sins.<sup>[O]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote O: Moroni 8:19-25.]
-</p>
-<p>The question naturally arises, if all must accept the principles of
+
+  Little children cannot repent; wherefore it is awful wickedness
+  to deny the pure mercies of God unto them, for they are
+  all alive in him because of his mercy.
+
+  And he that saith, that little children need baptism, denieth
+  the mercies of Christ, and setteth at naught the atonement of
+  him and the power of his redemption.
+
+  Wo unto such, for they are in danger of death, hell, and
+  endless torment. I speak it boldly, God hath commanded me.
+  Listen unto them and give heed, or they stand against you at the
+  judgment seat of Christ.
+
+  For behold that all little children are alive in Christ, and
+  also all they that are without the law. For the power of redemption
+  cometh on all they that have no law; wherefore, he
+  that is not condemned, or he that is under no condemnation,
+  cannot repent; and unto such baptism availeth nothing.
+
+  But it is mockery before God, denying the mercies of Christ,
+  and the power of His Holy Spirit, and putting trust in dead
+  works.
+
+  Behold, my son, this thing ought not to be; for repentance
+  is unto them that are under condemnation and under the curse
+  of a broken law.
+
+  And the first fruits of repentance is baptism, and baptism
+  cometh by faith, unto the fulfilling of the commandments; and
+  the fulfilling of commandments bringeth remission of sins.[O]
+
+[Footnote O: Moroni 8:19-25.]
+
+The question naturally arises, if all must accept the principles of
 the gospel and be baptized for the remission of their sins, what of
 the dead who died without receiving the remission of their sins, or
 accepting Christ while they were in the flesh? They cannot be baptized
@@ -389,19 +348,19 @@ iniquity of the children of Israel, and all their transgressions in
 all their sins, putting them upon the head of the goat, and then sent
 him away "by the hand of a fit man into the wilderness." And the goat
 bore upon him all their iniquities into the wilderness "unto a land not
-inhabited:"<sup>[P]</sup> This was but one instance. In various ways of vicarious
+inhabited:"[P] This was but one instance. In various ways of vicarious
 offerings have been made and accepted. Then why should it be considered
 a strange thing for the Latter-day Saints to believe that the children
 have the privilege to stand vicariously for their dead fathers, and
 by proxy perform these ordinances, that belong to this life, in their
 behalf?
-</p>
-<p class="footnote">[Footnote P: Leviticus 16:20-22. See also Leviticus chapters 4 and 5.]
-</p>
-<p>The fact is, the whole plan of redemption is based on vicarious
+
+[Footnote P: Leviticus 16:20-22. See also Leviticus chapters 4 and 5.]
+
+The fact is, the whole plan of redemption is based on vicarious
 salvation, One without sin standing for the whole human family, all
 of whom were under the curse. It is most natural and just that he who
-commits the wrong should pay the penalty&mdash;atone for his wrong doing.
+commits the wrong should pay the penalty--atone for his wrong doing.
 Therefore, when Adam was the transgressor of the law, justice demanded
 that he, and none else, should answer for the sin and pay the penalty
 with his life. But Adam, in breaking and law, himself became subject
@@ -417,8 +376,8 @@ offered himself a sacrifice for sins, and through his death upon the
 cross took upon himself both Adam's transgression and our individual
 sins, thereby redeeming us from the fall, and from our sins, on
 condition of repentance.
-</p>
-<p>Let us illustrate: A man walking along the road happens to fall into
+
+Let us illustrate: A man walking along the road happens to fall into
 a pit so deep and dark that he cannot climb to the surface and regain
 his freedom. How can he save himself from his predicament? Not by any
 exertions on his own part, for there is no means of escape in the
@@ -442,11 +401,11 @@ helpless. The Savior said, "I lay down my life for the sheep. * * *
 Therefore, doth my Father love me, because I lay down my life that I
 might take it up again. No man taketh it from me, but I lay it down of
 myself. I have power to lay it down, and I have power to take it again.
-This commandment have I received of my Father."<sup>[Q]</sup>
-</p>
-<p class="footnote">[Footnote Q: John 10:15-18.]
-</p>
-<p>From this we see that he had life in himself, which he received from
+This commandment have I received of my Father."[Q]
+
+[Footnote Q: John 10:15-18.]
+
+From this we see that he had life in himself, which he received from
 the Father, being his Only Begotten Son in the flesh. And it was this
 principle that gave him power to atone for the sins of the world, both
 for Adam's transgression and for our individual sins, from which we
@@ -454,19 +413,19 @@ could not of ourselves get free. Therefore, Christ died in our stead,
 because to punish us would not relieve the situation, for we would
 still be subject to the curse even if our blood had been shed, and
 through his death we receive life and "have it more abundantly."
-</p>
-<p>The vicarious atonement was for all, both living and dead, for as
+
+The vicarious atonement was for all, both living and dead, for as
 extensive as was the fall, of necessity must be the atonement. There
 shall, therefore, be a resurrection of the dead, both of the just and
-the unjust.<sup>[R]</sup> This is general salvation. Our individual salvation,
+the unjust.[R] This is general salvation. Our individual salvation,
 which determines our standing, or glory, in the kingdom of God, besides
 depending on the atonement of Christ, also is on condition that the
 laws and ordinances of the gospel are accepted and lived by us, both by
 the living and the dead.
-</p>
-<p class="footnote">[Footnote R: Acts 24:15.]
-</p>
-<p>This vicarious salvation for the dead is not a new doctrine. It is new
+
+[Footnote R: Acts 24:15.]
+
+This vicarious salvation for the dead is not a new doctrine. It is new
 and strange for this generation, it is true, but only because of a lack
 of comprehension of the revelations of the Lord. The Prophet Joseph
 Smith said it is the burden of the scriptures. It has been taught among
@@ -486,12 +445,12 @@ heavens weep, seeing these shall suffer? But behold, these which thine
 eyes are upon shall perish in the floods; and, behold, I will shut them
 up; a prison have I prepared for them. And That which I have chosen
 hath plead before my face. Wherefore, he suffereth for their sins;
-inasmuch as they will repent <em>in the day that my Chosen shall return
-unto me,</em> and until that day they shall be in torment."<sup>[S]</sup>
-</p>
-<p class="footnote">[Footnote S: Book of Moses 7:36-39.]
-</p>
-<p>From this we learn that the Lord has prepared a prison for the souls
+inasmuch as they will repent _in the day that my Chosen shall return
+unto me,_ and until that day they shall be in torment."[S]
+
+[Footnote S: Book of Moses 7:36-39.]
+
+From this we learn that the Lord has prepared a prison for the souls
 of all those who rejected the testimony of the antediluvian prophets,
 where they were to remain in torment until the time when Jesus should
 atone for their sins and return to the Father. Isaiah also says: "And
@@ -499,30 +458,30 @@ it shall come to pass in that day, that the Lord shall punish the host
 of the high ones that are on high, and the kings of the earth upon the
 earth. And they shall be gathered together, as prisoners are gathered
 in the pit, and shall be shut up in the prison, and after many days
-shall they be visited."<sup>[T]</sup> This is spoken of those who keep not the law
+shall they be visited."[T] This is spoken of those who keep not the law
 who live in latter-days. Again, he says: "The Spirit of the Lord God is
 upon me, because the Lord hath anointed me to preach good tidings unto
 the meek, he hath sent me to bind up the broken-hearted, to proclaim
 liberty to the captives, and the opening of the prison to them that are
-bound."<sup>[U]</sup> This was spoken of as the mission of the Redeemer, both his
+bound."[U] This was spoken of as the mission of the Redeemer, both his
 work for the living and the dead who were prisoners that were bound.
 When the Savior commenced his ministry, he entered into the synagogue
-in the city of Nazareth&mdash;his home town&mdash;on the Sabbath day, the book
+in the city of Nazareth--his home town--on the Sabbath day, the book
 of Isaiah was handed him, he turned to this passage and read, closed
 the book, handed it back to the minister, and while the eyes of all
 the congregation were riveted upon him, he said: "This day is this
-scripture fulfilled in your ears."<sup>[V]</sup> But the Jews rejected him and his
+scripture fulfilled in your ears."[V] But the Jews rejected him and his
 testimony, and with violence drove him from the city. Nevertheless, he
 continued to proclaim liberty to the captives, declaring that he came
 not alone to save the living but also to save the dead.
-</p>
-<p class="footnote">[Footnote T: Isaiah 24:21, 22.]
-</p>
-<p class="footnote">[Footnote U: Isaiah 61:1 and 42:7.]
-</p>
-<p class="footnote">[Footnote V: Luke 4:16-21.]
-</p>
-<p>We hear the objection made from time to time, that Jesus did not come
+
+[Footnote T: Isaiah 24:21, 22.]
+
+[Footnote U: Isaiah 61:1 and 42:7.]
+
+[Footnote V: Luke 4:16-21.]
+
+We hear the objection made from time to time, that Jesus did not come
 to save the dead, for he most emphatically declared himself that there
 was an impassable gulf that separated the righteous spirits from the
 wicked. In defense of their position they quote the words in Luke, 16th
@@ -537,8 +496,8 @@ of no man could pass. Therefore, say the objectors to the doctrine
 of universal salvation, "it is quite evident that the righteous and
 the wicked who are dead, cannot visit each other, hence there is no
 salvation for the dead."
-</p>
-<p>This was true before the days that Jesus atoned for sin, which is
+
+This was true before the days that Jesus atoned for sin, which is
 plainly shown in the passage from the Book of Moses previously quoted.
 And it was at this period this event occurred. However, Christ came,
 and through his death bridged that gulf, proclaimed liberty to the
@@ -549,42 +508,42 @@ misdeeds, satisfied justice, and have accepted the gospel of Christ,
 having the ordinances attended to in their behalf by their living
 relatives or friends, receive the passport that entitles them to cross
 the gulf.
-</p>
-<p>The Lord speaks of this himself in the fifth chapter of John, beginning
+
+The Lord speaks of this himself in the fifth chapter of John, beginning
 with the twenty-fourth verse: "Verily, verily, I say unto you, he that
 heareth my word, and believeth on him that sent me, hath everlasting
 life, and shall not come into condemnation; but is passed from death
 unto life.
-</p>
-<p>"Verily, verily, I say unto you, the hour is coming and now is, when
+
+"Verily, verily, I say unto you, the hour is coming and now is, when
 the dead shall hear the voice of the Son of God; and they that hear
 shall live."
-</p>
-<p>And the Jews marveled. Perhaps they thought he meant those who were
+
+And the Jews marveled. Perhaps they thought he meant those who were
 "dead in trespasses and sins" should hear his voice. At any rate they
 marveled. He perceived it and said:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;"Marvel not at this: for the hour is coming, in the which all<br>
-&nbsp;&nbsp;that are in their graves shall hear His voice, and shall come<br>
-&nbsp;&nbsp;forth: they that have done good, unto the resurrection of life;<br>
-&nbsp;&nbsp;and they that have done evil unto the resurrection of damnation."<br>
-</p></blockquote>
-<p>Peter tells us that Christ did this very thing:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;For Christ also hath once suffered for sins, the just for the<br>
-&nbsp;&nbsp;unjust, that he might brings us to God, being put to death in the<br>
-&nbsp;&nbsp;flesh, but quickened by the spirit:<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;By which also he went and preached unto the spirits in<br>
-&nbsp;&nbsp;prison:<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;Which sometime were disobedient, when once the long-suffering<br>
-&nbsp;&nbsp;of God waited in the days of Noah, while the ark was<br>
-&nbsp;&nbsp;a preparing, wherein few, that is, eight souls were saved.<sup>[W]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote W: I Peter 3:18-20.]
-</p>
-<p>Why did he preach to these disobedient spirits? Surely not to increase
+
+  "Marvel not at this: for the hour is coming, in the which all
+  that are in their graves shall hear His voice, and shall come
+  forth: they that have done good, unto the resurrection of life;
+  and they that have done evil unto the resurrection of damnation."
+
+Peter tells us that Christ did this very thing:
+
+  For Christ also hath once suffered for sins, the just for the
+  unjust, that he might brings us to God, being put to death in the
+  flesh, but quickened by the spirit:
+
+  By which also he went and preached unto the spirits in
+  prison:
+
+  Which sometime were disobedient, when once the long-suffering
+  of God waited in the days of Noah, while the ark was
+  a preparing, wherein few, that is, eight souls were saved.[W]
+
+[Footnote W: I Peter 3:18-20.]
+
+Why did he preach to these disobedient spirits? Surely not to increase
 their torments, to taunt them for not accepting of his truth in the
 days of the prophets! Was it to tantalize them, and make them more
 miserable because of the blessings they had lost! Jesus was a merciful
@@ -595,11 +554,11 @@ for mercy in their behalf. Therefore, whatever his mission was, it was
 one of mercy and comfort to those prisoners. Peter tells us that the
 object of his visit was that the gospel might be preached also to the
 dead, "that they might be judged according to men in the flesh, but
-live according to God in the spirit."<sup>[X]</sup>
-</p>
-<p class="footnote">[Footnote X: I Peter 4:6.]
-</p>
-<p>What good reason can be given why the Lord should not forgive sins in
+live according to God in the spirit."[X]
+
+[Footnote X: I Peter 4:6.]
+
+What good reason can be given why the Lord should not forgive sins in
 the world to come? Why should man suffer throughout the countless ages
 of eternity for his sins committed here, if those sins are not unto
 death? There are many good, honorable men who have wilfully wronged no
@@ -614,8 +573,8 @@ Everlasting and Eternal. Therefore, when a man pays the penalty of his
 misdeeds and humbly repents, receiving the gospel, he comes out of the
 prison-house and is assigned to some degree of glory in the kingdom of
 God, according to his worth and merit.
-</p>
-<p>There are three degrees of glory in this kingdom, the celestial, into
+
+There are three degrees of glory in this kingdom, the celestial, into
 which those who keep the whole law shall enter; the terrestrial, in
 which are found the honorable men of the world, and those who were
 blinded by the craftiness of men, and were overcome by the things of
@@ -632,20 +591,20 @@ and crucified him afresh to themselves, these will be cast out of the
 kingdom into outer darkness. All the rest shall be saved in some degree
 of glory in one of the three grand divisions of the kingdom of God. A
 full discussion of this is found in Doctrine and Covenants, section 76.
-</p>
-<p>That sins are forgiven in the world to come, we need only refer to the
+
+That sins are forgiven in the world to come, we need only refer to the
 words of the Savior:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;All manner of sin and blasphemy shall be forgiven unto<br>
-&nbsp;&nbsp;men: but the blasphemy against the Holy Ghost shall not be<br>
-&nbsp;&nbsp;forgiven unto men. And whosoever speaketh a word against the<br>
-&nbsp;&nbsp;Son of man, it shall be forgiven him: but whosoever speaketh<br>
-&nbsp;&nbsp;against the Holy Ghost, it shall not be forgiven him, neither in<br>
-&nbsp;&nbsp;this world, neither in the world to come.<sup>[Y]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote Y: Matt. 12:32.]
-</p>
-<p>This shows that some sins will be forgiven in the world to come. We are
+
+  All manner of sin and blasphemy shall be forgiven unto
+  men: but the blasphemy against the Holy Ghost shall not be
+  forgiven unto men. And whosoever speaketh a word against the
+  Son of man, it shall be forgiven him: but whosoever speaketh
+  against the Holy Ghost, it shall not be forgiven him, neither in
+  this world, neither in the world to come.[Y]
+
+[Footnote Y: Matt. 12:32.]
+
+This shows that some sins will be forgiven in the world to come. We are
 also informed in First Corinthians, fifteenth chapter, that "if in this
 life only we have hope in Christ, we are of all men most miserable."
 But we have hope in Christ both in this life and in the life to come.
@@ -653,11 +612,11 @@ Salvation does not come all at once; we are commanded to be perfect
 even as our Father in heaven is perfect. It will take us ages to
 accomplish this end, for there will be greater progress beyond the
 grave, and it will be there that the faithful will overcome all things,
-and receive all things, even the fullness of the Father's glory.<sup>[Z]</sup>
-</p>
-<p class="footnote">[Footnote Z: Doc. &amp; Cov. 84:38.]
-</p>
-<p>Salvation for the dead was understood in the days of the primitive
+and receive all things, even the fullness of the Father's glory.[Z]
+
+[Footnote Z: Doc. & Cov. 84:38.]
+
+Salvation for the dead was understood in the days of the primitive
 Christian Church, and to some extent baptisms for the dead continued
 to be performed until A. D. 379, when the Council of Carthage forbade
 any longer the administration of this ordinance and "holy communion"
@@ -666,62 +625,62 @@ Corinthian Saints, who, even in that day, were falling away from the
 true gospel. These saints understood the doctrine of baptism for the
 dead, yet they doubted the general resurrection. Paul argues with them
 thus:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;Now if Christ be preached that he rose from the dead, how<br>
-&nbsp;&nbsp;say some among you that there is no resurrection of the dead?<br>
-&nbsp;&nbsp;But if there be no resurrection of the dead, then is Christ not<br>
-&nbsp;&nbsp;risen. And if Christ be not risen, then is our preaching vain,<br>
-&nbsp;&nbsp;and your faith is also vain. Yea, and we are found false witnesses<br>
-&nbsp;&nbsp;of God; because we have testified of God that he raised<br>
-&nbsp;&nbsp;up Christ: whom he raised not up, if so be that the dead rise not.<br>
-&nbsp;&nbsp;For if the dead rise not, then is not Christ raised: and if Christ<br>
-&nbsp;&nbsp;be not raised, your faith is vain; ye are yet in your sins. Then<br>
-&nbsp;&nbsp;they also which are fallen asleep in Christ are perished. If in<br>
-&nbsp;&nbsp;this life only we have hope in Christ, we are of all men most<br>
-&nbsp;&nbsp;miserable. But now is Christ risen from the dead, and become<br>
-&nbsp;&nbsp;the first fruits of them that slept. For since by man came death<br>
-&nbsp;&nbsp;by man came also the resurrection of the dead. For as in Adam<br>
-&nbsp;&nbsp;all die; even so in Christ shall all be made alive. * * * * Else<br>
-&nbsp;&nbsp;what shall they do which are baptized for the dead, if the<br>
-&nbsp;&nbsp;dead rise not at all? why are they then baptized for the dead?<br>
-&nbsp;&nbsp;and why stand we in jeopardy every hour?<sup>[A]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote A: I Cor. 15:20-30.]
-</p>
-<p>Joseph Smith, the prophet, informs us that salvation for the dead was
+
+  Now if Christ be preached that he rose from the dead, how
+  say some among you that there is no resurrection of the dead?
+  But if there be no resurrection of the dead, then is Christ not
+  risen. And if Christ be not risen, then is our preaching vain,
+  and your faith is also vain. Yea, and we are found false witnesses
+  of God; because we have testified of God that he raised
+  up Christ: whom he raised not up, if so be that the dead rise not.
+  For if the dead rise not, then is not Christ raised: and if Christ
+  be not raised, your faith is vain; ye are yet in your sins. Then
+  they also which are fallen asleep in Christ are perished. If in
+  this life only we have hope in Christ, we are of all men most
+  miserable. But now is Christ risen from the dead, and become
+  the first fruits of them that slept. For since by man came death
+  by man came also the resurrection of the dead. For as in Adam
+  all die; even so in Christ shall all be made alive. * * * * Else
+  what shall they do which are baptized for the dead, if the
+  dead rise not at all? why are they then baptized for the dead?
+  and why stand we in jeopardy every hour?[A]
+
+[Footnote A: I Cor. 15:20-30.]
+
+Joseph Smith, the prophet, informs us that salvation for the dead was
 introduced in the days of Christ who had reference to this subject
 when, in addressing the Jews, he said:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;That upon you may come all the righteous blood shed upon<br>
-&nbsp;&nbsp;the earth, from the blood of the righteous Abel unto the blood<br>
-&nbsp;&nbsp;of Zacharias, son of Barachias, who ye slew between the temple<br>
-&nbsp;&nbsp;and the altar. Verily I say unto you, all these things shall come<br>
-&nbsp;&nbsp;upon this generation.<sup>[B]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote B: Matt. 23:35-36.]
-</p>
-<p>Commenting on this, the prophet said the reason that generation would
+
+  That upon you may come all the righteous blood shed upon
+  the earth, from the blood of the righteous Abel unto the blood
+  of Zacharias, son of Barachias, who ye slew between the temple
+  and the altar. Verily I say unto you, all these things shall come
+  upon this generation.[B]
+
+[Footnote B: Matt. 23:35-36.]
+
+Commenting on this, the prophet said the reason that generation would
 have to answer for the blood of the righteous from Abel to Zacharias,
 was that in their day the privilege of performing the ordinances in
 behalf of the dead, was within their power, while it had been denied
 anciently.
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;Hence, as they possessed greater privileges than any other<br>
-&nbsp;&nbsp;generation, not only pertaining to themselves, but to their dead,<br>
-&nbsp;&nbsp;their sin was greater, as they not only neglected their own salvation,<br>
-&nbsp;&nbsp;but that of their progenitors, and hence their blood was<br>
-&nbsp;&nbsp;required at their hands.<sup>[C]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote C: Times and Seasons 3:761.]
-</p>
-<p>In this same article the prophet declared that Obediah was speaking
+
+  Hence, as they possessed greater privileges than any other
+  generation, not only pertaining to themselves, but to their dead,
+  their sin was greater, as they not only neglected their own salvation,
+  but that of their progenitors, and hence their blood was
+  required at their hands.[C]
+
+[Footnote C: Times and Seasons 3:761.]
+
+In this same article the prophet declared that Obediah was speaking
 of salvation for the dead when he said, "And saviors shall come upon
 Mount Zion, to judge the Mount of Esau, and the kingdom shall be the
-Lord's."<sup>[D]</sup>
-</p>
-<p class="footnote">[Footnote D: Obediah 21.]
-</p>
-<p>The work of saving the dead has practically been reserved for the
+Lord's."[D]
+
+[Footnote D: Obediah 21.]
+
+The work of saving the dead has practically been reserved for the
 dispensation of the fullness of times, when the Lord shall restore all
 things. It is, therefore, the duty of the Latter-day Saints to see that
 it is accomplished. We cannot do it all at once, but will have the
@@ -729,8 +688,8 @@ thousand years of the Millennium to do it in. In that time the work
 must be done in behalf of the dead of the previous six thousand years
 for all who need it. Temples will be built for this purpose, and the
 labor in them will occupy most of the time of the Saints.
-</p>
-<p>One of the most important prophecies, pertaining to the dead, is that
+
+One of the most important prophecies, pertaining to the dead, is that
 of Malachi. He prophesied that the Lord would send Elijah, the prophet,
 before the coming of the great and dreadful day of the Lord, for the
 purpose of turning the hearts of the fathers to the children, and
@@ -745,11 +704,11 @@ the prophet, before the coming of the great and dreadful day of the
 Lord, and he shall plant in the hearts of the children the promise made
 to the fathers, and the hearts of the children shall turn to their
 fathers. If it were not so, the whole earth would be utterly wasted at
-his coming."<sup>[E]</sup>
-</p>
-<p class="footnote">[Footnote E: History of the Church, Vol. 1:12.]
-</p>
-<p>From this, we see that Elijah's mission was to restore that priesthood
+his coming."[E]
+
+[Footnote E: History of the Church, Vol. 1:12.]
+
+From this, we see that Elijah's mission was to restore that priesthood
 which would turn the hearts of the children to their fathers, according
 to a promise that had been made to the fathers. That it was extremely
 important and necessary, is shown in the fact that the whole earth
@@ -772,11 +731,11 @@ visitors came Elijah, who placed his hands on the heads of Joseph Smith
 and Oliver Cowdery, and gave them the priesthood spoken of by Malachi.
 "Therefore," said he, "the keys of this dispensation are committed into
 your hands, and by this ye may know that the great and dreadful day of
-the Lord is near, even at the doors."<sup>[F]</sup>
-</p>
-<p class="footnote">[Footnote F: Doc. &amp; Cov. 110:16.]
-</p>
-<p>What was the promise made to the fathers that was to be fulfilled in
+the Lord is near, even at the doors."[F]
+
+[Footnote F: Doc. & Cov. 110:16.]
+
+What was the promise made to the fathers that was to be fulfilled in
 the latter-days by the turning of the hearts of the children to their
 fathers? It was the promise of the Lord made through Enoch, Isaiah,
 and the prophets, to the nations of the earth, that the time should
@@ -788,8 +747,8 @@ was not understood by the Saints, and there was no temple built where
 the ordinances could be performed. But as soon as this priesthood was
 restored, the hearts of the children commenced turning toward their
 fathers.
-</p>
-<p>The knowledge of temple building and temple work was made known to
+
+The knowledge of temple building and temple work was made known to
 the prophet from time to time subsequently to the 3rd of April, 1836,
 and he commenced to reveal these things to the Saints. In Nauvoo they
 were commanded to build a temple to the Lord, for only in temples can
@@ -797,7 +756,7 @@ these ordinances be performed, excepting in times of extreme poverty,
 when they cannot build temples for that purpose. "For this ordinance
 belongeth to my house," says the Lord, "and cannot be acceptable to me
 (i.e., outside of the house) only in the days of your poverty, wherein
-ye are not able to build a house unto me."<sup>[G]</sup> As the Latter-day Saints
+ye are not able to build a house unto me."[G] As the Latter-day Saints
 were in this poverty-stricken condition when they settled at Nauvoo,
 the Lord granted them the privilege of baptizing for the dead in the
 Mississippi river, until a place could be prepared for the ordinance
@@ -807,15 +766,15 @@ other place. It was October 3, 1841, when this revelation was given,
 and on the 8th of the following month, the font in the temple at Nauvoo
 was dedicated, and from that day, until the Saints were driven from
 Illinois, that ordinance continued to be performed by them in that
-house in behalf of their dead.<sup>[H]</sup> After arriving in Salt Lake valley,
+house in behalf of their dead.[H] After arriving in Salt Lake valley,
 the first commandment President Young received from the Lord was to
 commence to build a temple where this work could be continued. The
 members of the Church responded, and temples have been built, where the
 living now go to officiate for the dead.
-</p>
-<p class="footnote">[Footnote G: Doc. &amp; Cov. 124:30.]
-</p>
-<p class="footnote">[Footnote H: Some of those who would destroy the work of God, have
+
+[Footnote G: Doc. & Cov. 124:30.]
+
+[Footnote H: Some of those who would destroy the work of God, have
 declared that the Church was rejected, with its dead, because the
 temple at Nauvoo was not finished; and, say they, the Lord, in this
 revelation, declared that he would give the Saints sufficient time to
@@ -826,64 +785,64 @@ endowments in it, and labored for their dead before they were finally
 driven from Nauvoo by their enemies. But the meaning of this revelation
 is perverted; the Lord did not say he would reject the Church, with
 its dead, if they failed to build the temple, but that they would be
-rejected <em>if they did not perform the ordinances for their dead
-in the temple when it was prepared for that purpose.</em> Here is the
+rejected _if they did not perform the ordinances for their dead
+in the temple when it was prepared for that purpose._ Here is the
 commandment in question (sec. 124:31-35):
-</p>
-<p class="footnote">"But I command you, all ye my Saints, to build a house unto me; and I
+
+"But I command you, all ye my Saints, to build a house unto me; and I
 grant unto you a sufficient time to build a house unto me, and during
 this time your baptisms [i.e. outside of a temple] shall be acceptable
 unto me.
-</p>
-<p class="footnote">"But, behold, at the end of this appointment [i.e. the sufficient time]
+
+"But, behold, at the end of this appointment [i.e. the sufficient time]
 your baptisms for your dead shall not be acceptable unto me [i. e.
-outside of a temple] <em>and if ye do not these things</em> [i. e. temple
-ordinances] <em>at the end of the appointment,</em> ye shall be rejected
+outside of a temple] _and if ye do not these things_ [i. e. temple
+ordinances] _at the end of the appointment,_ ye shall be rejected
 as a Church, with your dead, saith the Lord your God.
-</p>
-<p class="footnote">"For verily I say unto you, that after you have had sufficient time to
-build a house to me, <em>wherein the ordinances of baptizing for the
-dead belongeth,</em> and for which the same was instituted from before
+
+"For verily I say unto you, that after you have had sufficient time to
+build a house to me, _wherein the ordinances of baptizing for the
+dead belongeth,_ and for which the same was instituted from before
 the foundation of the world, your baptisms for your dead [i.e. in any
 other place than in a temple] cannot be acceptable unto me, for therein
 are the keys of the holy priesthood ordained that you may receive honor
 and glory.
-</p>
-<p class="footnote">"And after this time [when a house is prepared] your baptism for the
+
+"And after this time [when a house is prepared] your baptism for the
 dead, by those who art scattered abroad, are not acceptable unto me,
 saith the Lord." [Bold face and brackets are mine. J.F.S.]
-</p>
-<p class="footnote"><em>And if ye do not these things at the end of the appointment,</em>
-obviously does not mean "if ye do not build a temple at the <em>end</em>
+
+_And if ye do not these things at the end of the appointment,_
+obviously does not mean "if ye do not build a temple at the _end_
 of the appointment," as our critics infer it does, but it refers to
-the <em>ordinances</em> that were to be performed in the temple, and the
+the _ordinances_ that were to be performed in the temple, and the
 failure on the part of the Saints to perform these ordinances for their
 dead was the thing that would cause their rejection with their dead,
 and not the failure to build the temple, which was merely the edifice
 in which the saving principles were to be performed. This is in harmony
 with the teachings of the Prophet Joseph Smith, who said that if we
-neglect the salvation of our dead "<em>we do it at the peril of our own
-salvation!</em> Why? Because we without them cannot be made perfect."
-(Doc. &amp; Cov. sec. 28:15.)
-</p>
-<p class="footnote">The virtue of salvation for the dead is not in the structure of
-the temple, but in the <em>ordinances</em> which are performed in the
+neglect the salvation of our dead "_we do it at the peril of our own
+salvation!_ Why? Because we without them cannot be made perfect."
+(Doc. & Cov. sec. 28:15.)
+
+The virtue of salvation for the dead is not in the structure of
+the temple, but in the _ordinances_ which are performed in the
 temple. The temple is to the ordinances just what the vessel is to the
 life-giving nourishment it contains. Those who would reject us on a
 technicality, because, as they say, "we did not finish the temple,"
 neither build temples nor perform the ordinances for the dead, wherein
 they prove their rejection by the Lord, according to the revelations of
 Joseph Smith, the prophet.]
-</p>
-<p>The restoration of Elijah's priesthood accomplished more than the
+
+The restoration of Elijah's priesthood accomplished more than the
 turning of the hearts of the members of the Church to their fathers,
 for the spirit of his mission spread forth and took hold of the
 hearts of the honorable men and women in the world who have been
 directed, they know not why, to spend their time and means in preparing
 genealogies, vital records and various other genealogical data, which
 they are publishing at great labor and expense.
-</p>
-<p>It is a curious and interesting fact that the year following the coming
+
+It is a curious and interesting fact that the year following the coming
 of Elijah, the British government passed laws requiring the proper
 recording of records, and the filing of them in one central place. In
 the year 1844, the New England Historical and Genealogical Society was
@@ -899,21 +858,21 @@ Eddy," to the society, the vital records (births, marriages and deaths)
 of towns in Massachusetts, whose records are not already printed
 from the beginning to the year 1850. This is a tremendous work, many
 volumes of these records have been published, and others are in course
-of preparation.<sup>[I]</sup> Eventually they will be printed by this and other
+of preparation.[I] Eventually they will be printed by this and other
 similar societies in Massachusetts, a state that has set the pace for
 her sister states to follow. There, and in other parts, these societies
 are protected and encouraged by legislative enactment. Besides these
 numerous societies engaged in this noble work, there are multitudes
 of individual laborers who are publishing at their own expense family
 genealogies and vital records that extend back for hundreds of years.
-</p>
-<p class="footnote">[Footnote I: Other societies in Massachusetts are also preparing vital
+
+[Footnote I: Other societies in Massachusetts are also preparing vital
 records, among them are the Topsfield Historical Society, the Essex
 Antiquarian Society, the "Systematic History Fund," Franklin P. Rice,
 trustee. Of this work Mr. Rice, who is a pioneer in genealogical
 research, says:
-</p>
-<p class="footnote">"I hope sometime to give in detail an account of the various
+
+"I hope sometime to give in detail an account of the various
 undertakings in the line of record preservation with which I have been
 connected since I began, in the early seventies, with the idea, crude
 and imperfect, of subjecting to classification, for easy reference,
@@ -932,15 +891,15 @@ favor. Its substantial features are embodied in the Act of 1902. * *
 * Pursuing the work since 1898 under the operation of the Systematic
 History Fund, I have been able to secure copies and to print the vital
 records of more than thirty towns in central Massachusetts."]
-</p>
-<p>In Great Britain the work is carried on by the Harleian Society, the
-Genealogist Society, Phillimore &amp; Company, the Lancashire Parish
+
+In Great Britain the work is carried on by the Harleian Society, the
+Genealogist Society, Phillimore & Company, the Lancashire Parish
 Register Society, the Yorkshire Parish Register Society, and similar
 societies in nearly all of the counties of Great Britain. These
 societies publish the parish registers of the several parishes in
 England, and to an extent in Scotland, Ireland and Wales. There is
-also in Great Britain Lodge's, Debrett's and Burkes' <em>Peerages and
-Visitations</em> which are invaluable to the searcher of genealogical
+also in Great Britain Lodge's, Debrett's and Burkes' _Peerages and
+Visitations_ which are invaluable to the searcher of genealogical
 information in those lands. These numerous societies and individuals
 in the world, upon whom the spirit of Elijah has fallen to this extent
 at least, are compiling, printing and distributing these records of
@@ -952,8 +911,8 @@ a mere drop in the bucket. These people and societies are helping us,
 should we not take every advantage of their labors and stand in the
 forefront, magnifying our calling and proving our birthright as the
 children of Ephraim?
-</p>
-<p>Thus the hearts of the children are gradually, but surely turning
+
+Thus the hearts of the children are gradually, but surely turning
 towards their fathers. The spirit of this work is now taking hold of
 the hearts of the people of Germany, Scandinavia and the continent
 of Europe. And why are they doing this? Because their hearts have
@@ -962,8 +921,8 @@ of salvation for the dead, and they are energetically and faithfully
 laboring, but all the while unconscious of the full significance and
 worth of their labors, simply because the work appeals to them and they
 are fascinated by it. Surely they shall receive their reward.
-</p>
-<p>While many honorable men and women in the world are accomplishing a
+
+While many honorable men and women in the world are accomplishing a
 great work in searching out and compiling genealogical data, their
 labors serve only as the means to the end. The greatest work, after
 all, devolves on the members of the Church who have the priesthood,
@@ -1013,106 +972,106 @@ other things, for which reward will be given, but if we neglect the
 weightier privilege and commandment, notwithstanding all other good
 works, we shall find ourselves under severe condemnation. And why such
 condemnation? Because "the greatest responsibility in this world that
-God has laid upon us, is to seek after our dead;"<sup>[J]</sup> Because we cannot
+God has laid upon us, is to seek after our dead;"[J] Because we cannot
 be saved without them, "It is necessary that those who have gone before
 and those who come after us should have salvation in common with us,
-and thus hath God made it obligatory to man,"<sup>[K]</sup> says the Prophet
+and thus hath God made it obligatory to man,"[K] says the Prophet
 Joseph Smith. From this, then, we see that while it is necessary to
 preach the gospel in the nations of the earth, and to do all other good
 works in the Church, yet the greatest commandment given us, and made
 obligatory, is the temple work in our own behalf and in behalf of our
 dead.
-</p>
-<p class="footnote">[Footnote J: Joseph Smith in Times and Seasons 6:616.]
-</p>
-<p class="footnote">[Footnote K: Ibid.]
-</p>
-<p>Again the Prophet says:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;Baptism for the dead is the only way that men can appear<br>
-&nbsp;&nbsp;as saviors upon Mount Zion. The proclamation of the first principles<br>
-&nbsp;&nbsp;of the gospel was a means of salvation to man individually,<br>
-&nbsp;&nbsp;but men, by actively engaging in rites of salvation substitutionally,<br>
-&nbsp;&nbsp;become instrumental in bringing multitudes of their<br>
-&nbsp;&nbsp;kin into the kingdom of God. * * * This doctrine appears<br>
-&nbsp;&nbsp;glorious inasmuch as it exhibits the greatness of divine compassion<br>
-&nbsp;&nbsp;and benevolence in the extent of the plan of human salvation.<br>
-&nbsp;&nbsp;This glorious truth is well calculated to enlarge the understanding,<br>
-&nbsp;&nbsp;and to sustain the soul under troubles, difficulties,<br>
-&nbsp;&nbsp;and distresses. * * * This doctrine presents in a clear light<br>
-&nbsp;&nbsp;the wisdom and mercy of God, in preparing and ordinance for the<br>
-&nbsp;&nbsp;salvation of the dead, being baptized by proxy, their names recorded<br>
-&nbsp;&nbsp;in heaven, and they judged according to the deeds done<br>
-&nbsp;&nbsp;in the body. This doctrine was the burden of the scriptures.<br>
-&nbsp;&nbsp;Those Saints who neglected it, in behalf of their deceased relatives,<br>
-&nbsp;&nbsp;do it at the peril of their own salvation.<sup>[L]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote L: Times and Seasons 2:545-6.]
-</p>
-<p>The reason our own salvation stands in jeopardy is because it is
+
+[Footnote J: Joseph Smith in Times and Seasons 6:616.]
+
+[Footnote K: Ibid.]
+
+Again the Prophet says:
+
+  Baptism for the dead is the only way that men can appear
+  as saviors upon Mount Zion. The proclamation of the first principles
+  of the gospel was a means of salvation to man individually,
+  but men, by actively engaging in rites of salvation substitutionally,
+  become instrumental in bringing multitudes of their
+  kin into the kingdom of God. * * * This doctrine appears
+  glorious inasmuch as it exhibits the greatness of divine compassion
+  and benevolence in the extent of the plan of human salvation.
+  This glorious truth is well calculated to enlarge the understanding,
+  and to sustain the soul under troubles, difficulties,
+  and distresses. * * * This doctrine presents in a clear light
+  the wisdom and mercy of God, in preparing and ordinance for the
+  salvation of the dead, being baptized by proxy, their names recorded
+  in heaven, and they judged according to the deeds done
+  in the body. This doctrine was the burden of the scriptures.
+  Those Saints who neglected it, in behalf of their deceased relatives,
+  do it at the peril of their own salvation.[L]
+
+[Footnote L: Times and Seasons 2:545-6.]
+
+The reason our own salvation stands in jeopardy is because it is
 necessary that the parents and children not only receive the ordinance
 of baptism, but they must be joined together from generation to
 generation. It is necessary for us to go into the temples, be baptized,
 confirmed, and receive all the ordinances for our dead, just as we
-receive them for ourselves.<sup>[M]</sup>
-</p>
-<p class="footnote">[Footnote M: History of the Church, May 12, 1844.]
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;It is sufficient to know that the earth will be smitten with<br>
-&nbsp;&nbsp;a curse, unless there is a welding link of some kind or other,<br>
-&nbsp;&nbsp;between the fathers and the children upon some subject or other,<br>
-&nbsp;&nbsp;and behold what is that subject? It is the baptism for the dead.<br>
-&nbsp;&nbsp;For we without them cannot be made perfect; neither can they<br>
-&nbsp;&nbsp;without us be made perfect. Neither can they nor we be made<br>
-&nbsp;&nbsp;perfect without those who have died in the gospel also; for it<br>
-&nbsp;&nbsp;is necessary in the ushering in of the dispensation of the fulness<br>
-&nbsp;&nbsp;of times, which dispensation is now beginning to usher in, that<br>
-&nbsp;&nbsp;a whole and complete and perfect union and welding together<br>
-&nbsp;&nbsp;of dispensations, and keys, and powers, and glories should take<br>
-&nbsp;&nbsp;place, and be revealed, from the days of Adam even to the present<br>
-&nbsp;&nbsp;time and not only this but those things which never have<br>
-&nbsp;&nbsp;been revealed from the foundation of the world, but have been<br>
-&nbsp;&nbsp;kept hid from the wise and prudent shall be revealed unto babes<br>
-&nbsp;&nbsp;and sucklings in this dispensation of the fulness of times.<sup>[N]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote N: Doc. &amp; Cov. 128:18.]
-</p>
-<p>Again, quoting from the prophet:
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;The Bible says, I will send you Elijah the prophet before<br>
-&nbsp;&nbsp;the coming of the great and dreadful day of the Lord; and he<br>
-&nbsp;&nbsp;shall turn the hearts of the fathers to the children, and the<br>
-&nbsp;&nbsp;hearts of the children to their fathers, lest I come and smite the<br>
-&nbsp;&nbsp;earth with a curse.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;Now, the word turn here should be translated bind or seal.<br>
-&nbsp;&nbsp;But what is the object of this important mission? or how is it to<br>
-&nbsp;&nbsp;be fulfilled? The keys are to be delivered, the spirit of Elijah<br>
-&nbsp;&nbsp;is to come, the gospel to be established, the Saints of God to be<br>
-&nbsp;&nbsp;gathered, Zion built up, and the Saints to come up as saviors on<br>
-&nbsp;&nbsp;Mount Zion.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;But how are they to become saviors on Mount Zion? By<br>
-&nbsp;&nbsp;building their temples, erecting their baptismal fonts, and going<br>
-&nbsp;&nbsp;forth and receiving all the ordinances, baptisms, confirmations,<br>
-&nbsp;&nbsp;washings, anointings, ordinations and sealing powers upon their<br>
-&nbsp;&nbsp;heads, in behalf of all their progenitors who are dead, and redeem<br>
-&nbsp;&nbsp;them that they may come forth in the first resurrection<br>
-&nbsp;&nbsp;and be exalted to thrones of glory with them, and herein is the<br>
-&nbsp;&nbsp;chain that binds the hearts of the fathers to the children, and<br>
-&nbsp;&nbsp;children to the fathers, which fulfills the mission of Elijah. And<br>
-&nbsp;&nbsp;I would that this temple were now done, that we might go into<br>
-&nbsp;&nbsp;it, and go to work and improve our time, and make use of the<br>
-&nbsp;&nbsp;seals while they are on earth.<br>
-</p>
-<p class="poetry">&nbsp;&nbsp;The Saints have not too much time to save and redeem their<br>
-&nbsp;&nbsp;dead, and gather together their living relatives, that they may be<br>
-&nbsp;&nbsp;saved also, before the earth wil be smitten, and the consummation<br>
-&nbsp;&nbsp;decreed falls upon the world.<sup>[O]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote O: History of the Church, Jan. 20, 1844.]
-</p>
-<p>These passages emphasize the importance of the work for the dead, for
+receive them for ourselves.[M]
+
+[Footnote M: History of the Church, May 12, 1844.]
+
+  It is sufficient to know that the earth will be smitten with
+  a curse, unless there is a welding link of some kind or other,
+  between the fathers and the children upon some subject or other,
+  and behold what is that subject? It is the baptism for the dead.
+  For we without them cannot be made perfect; neither can they
+  without us be made perfect. Neither can they nor we be made
+  perfect without those who have died in the gospel also; for it
+  is necessary in the ushering in of the dispensation of the fulness
+  of times, which dispensation is now beginning to usher in, that
+  a whole and complete and perfect union and welding together
+  of dispensations, and keys, and powers, and glories should take
+  place, and be revealed, from the days of Adam even to the present
+  time and not only this but those things which never have
+  been revealed from the foundation of the world, but have been
+  kept hid from the wise and prudent shall be revealed unto babes
+  and sucklings in this dispensation of the fulness of times.[N]
+
+[Footnote N: Doc. & Cov. 128:18.]
+
+Again, quoting from the prophet:
+
+  The Bible says, I will send you Elijah the prophet before
+  the coming of the great and dreadful day of the Lord; and he
+  shall turn the hearts of the fathers to the children, and the
+  hearts of the children to their fathers, lest I come and smite the
+  earth with a curse.
+
+  Now, the word turn here should be translated bind or seal.
+  But what is the object of this important mission? or how is it to
+  be fulfilled? The keys are to be delivered, the spirit of Elijah
+  is to come, the gospel to be established, the Saints of God to be
+  gathered, Zion built up, and the Saints to come up as saviors on
+  Mount Zion.
+
+  But how are they to become saviors on Mount Zion? By
+  building their temples, erecting their baptismal fonts, and going
+  forth and receiving all the ordinances, baptisms, confirmations,
+  washings, anointings, ordinations and sealing powers upon their
+  heads, in behalf of all their progenitors who are dead, and redeem
+  them that they may come forth in the first resurrection
+  and be exalted to thrones of glory with them, and herein is the
+  chain that binds the hearts of the fathers to the children, and
+  children to the fathers, which fulfills the mission of Elijah. And
+  I would that this temple were now done, that we might go into
+  it, and go to work and improve our time, and make use of the
+  seals while they are on earth.
+
+  The Saints have not too much time to save and redeem their
+  dead, and gather together their living relatives, that they may be
+  saved also, before the earth wil be smitten, and the consummation
+  decreed falls upon the world.[O]
+
+[Footnote O: History of the Church, Jan. 20, 1844.]
+
+These passages emphasize the importance of the work for the dead, for
 we cannot be saved without them, nor can they be saved without us. Our
 salvation cannot be accomplished unless the fathers and the children
 are joined together, bound, sealed in perfect family order. Husbands
@@ -1120,8 +1079,8 @@ must be united by authority to their wives; children to their parents,
 until there is one grand family composed of all the faithful from the
 beginning to the end of time, with Adam, our progenitor standing in his
 calling as the father of us all.
-</p>
-<p>How great is the responsibility of the Latter-day Saints! No wonder
+
+How great is the responsibility of the Latter-day Saints! No wonder
 the theme occupied the prophet's mind so constantly, just before
 his death, for upon the Saints devolves the labor of this universal
 redemption! Is not this the greatest, most glorious duty in the
@@ -1133,8 +1092,8 @@ supreme: for this salvation must come by our endeavors, and we cannot
 fail. Individuals may fail to do their part, and be rejected for their
 failure, but the work of the Lord shall go on and increase from day to
 day, until redemption of the dead shall be accomplished.
-</p>
-<p>If all the righteous blood from the days of Abel to the days of
+
+If all the righteous blood from the days of Abel to the days of
 Zacharias, was required of the Jews in the days of Christ, because
 they neglected to do their duty in this regard, is it unreasonable to
 suppose that the blood of all the righteous from the beginning to the
@@ -1142,8 +1101,8 @@ present day will be required of this generation? For our privileges
 are greater than those of the Jews in the meridian of time. Therefore
 it behooves each one of us to rid our garments of the blood of this
 generation by performing all our duties required in the gospel.
-</p>
-<p>If this work must be performed for the dead from the beginning to
+
+If this work must be performed for the dead from the beginning to
 the end of time, how is it to be done? It is an exceptional case
 when a family record can be traced beyond the fifteenth century with
 any degree of accuracy, and most all of those that can, merely give
@@ -1161,8 +1120,8 @@ deal more than we at first think we can. There is enough that we can do
 for the dead, from the records which can be obtained today, to fill a
 hundred temples daily, and then we would not be through, at the rate we
 are working, before Christ will come to reign.
-</p>
-<p>We are expected to save as many as we possibly can with the knowledge
+
+We are expected to save as many as we possibly can with the knowledge
 we possess, and when the Redeemer comes to reign on earth, there will
 be a closer communication between the mortal and the resurrected Saints
 who will work hand in hand in the redemption of the dead. Those who
@@ -1170,8 +1129,8 @@ have passed beyond will then be in a position to furnish to their
 mortal kin all necessary names for temple work; and thus the labor for
 their salvation will be facilitated and more accurately done than it
 possibly can be done today.
-</p>
-<p>Even now hundreds of thousands of records have been prepared, the names
+
+Even now hundreds of thousands of records have been prepared, the names
 of many millions of souls have been published and are accessible to the
 members of the Church. Each year new genealogical records are being
 prepared in vast numbers more rapidly than we can do the work. And the
@@ -1180,13 +1139,13 @@ Comparatively, we are few in numbers, and the capacity of our temples,
 limited; but we should increase the work by increasing the number of
 workers. When the present temples will not accommodate all who desire
 to attend, the Lord will require that other temples be erected.
-</p>
-<p>There are in the Church today (1910) over forty-one thousand seven
+
+There are in the Church today (1910) over forty-one thousand seven
 hundred men holding the Melchizedek Priesthood, and every faithful
 elder has access to the temples. Suppose that each of the forty-one
 thousand seven hundred elders should go to one of the temples one day
-each month&mdash;and where they cannot go, they might send and have the work
-done for them&mdash;what would be the result? The work would be done for
+each month--and where they cannot go, they might send and have the work
+done for them--what would be the result? The work would be done for
 five hundred thousand each year. If an equal number of sisters would do
 the same, there would be one million souls endowed every year. If we
 spent one day each month in the temples saving our dead, just twelve
@@ -1200,16 +1159,16 @@ decreed falls upon the world? Suppose we did all this each year, in the
 course of a century we would have endowed one hundred million souls,
 which is about the present population of the United States, and a very
 small part of the work for those whose records we may now obtain. In
-the library of the Genealogical Society of Utah&mdash;which society was
+the library of the Genealogical Society of Utah--which society was
 organized in 1894 as an aid to the Saints who desire to do temple
-work&mdash;situated in the Church Office Building, Salt Lake City, we have
+work--situated in the Church Office Building, Salt Lake City, we have
 on file thousands of records, containing millions of names that have
 been collected from the parish registers and other records both in the
 United States and Europe. These are accessible, and many are obtaining
 from them the names of their dead and performing in the temples the
 work that will merit them a place in the Kingdom of God.
-</p>
-<p>Again, suppose each one of us should fill out one baptismal blank of
+
+Again, suppose each one of us should fill out one baptismal blank of
 twenty names, and send it to the temple every month, it would mean that
 over twenty million, sixteen thousand baptisms would be performed each
 twelve months. Suppose we sent such a list but twice a year, we would
@@ -1225,8 +1184,8 @@ work for our dead. If one hundredth part of the energy expended by the
 members of the Church in other ways were directed in the channels of
 temple work where it properly belongs, we could accomplish a great deal
 more work than we are now doing for the salvation of the dead.
-</p>
-<p>But one will say: "I have done the work for all my ancestors of whom
+
+But one will say: "I have done the work for all my ancestors of whom
 I have any knowledge. My genealogy can only be traced to my great
 grandfather, beyond that all is dark. How can I be baptized each year
 for twenty, forty, sixty, or more of my dead when we haven't their
@@ -1237,8 +1196,8 @@ who lacks sufficient help and therefore cannot do the work for all his
 dead. Assist him and assist the temples with your financial as well as
 your moral support, and the way may be opened before you that you can
 obtain more knowledge of your own dead.
-</p>
-<p>There is one thing of importance, however, we must keep in mind. No
+
+There is one thing of importance, however, we must keep in mind. No
 person has a right to select names promiscuously of any family, and go
 to the temple to perform the work for them. This cannot be tolerated,
 for it would lead to confusion and duplication of work. Let each family
@@ -1253,15 +1212,15 @@ there is an order in this work, as in all things pertaining to the
 gospel, and in no case should work be done in this manner, unless the
 circumstances are such that proper sanction of the temple authorities
 can be given.
-</p>
-<p>We are also troubled at times by what are known as "link-men,"
+
+We are also troubled at times by what are known as "link-men,"
 individuals in the world who manufacture names so that they can
 complete unbroken a family line. This is done for the purpose of making
 money, and is, of course, knavery of the worst kind. Those who are
 guilty of this trickery do not understand salvation for the dead, and
 may not fully realize the wickedness of such a course.
-</p>
-<p>Latter-day Saints should be accurate in their recording, and not depend
+
+Latter-day Saints should be accurate in their recording, and not depend
 entirely on the temple records for a history of their work. Temple
 record books are prepared for the use of the Saints so that each family
 may keep their own record of their dead. This should be done that the
@@ -1270,21 +1229,23 @@ out of the records that the dead are to be judged. We should be orderly
 in all things, and strive to get the spirit of the work, live our
 religion and work out our own salvation by assisting in the salvation
 of our dead, for we without them cannot be made perfect.
-</p>
-<p>In the words of the prophet, I shall conclude,
-</p><blockquote>
-<p class="poetry">&nbsp;&nbsp;Brethren, shall we not go on in so great a cause? Go forward<br>
-&nbsp;&nbsp;and not backward. Courage, brethren; and on, on to the<br>
-&nbsp;&nbsp;victory! Let your hearts rejoice, and be exceeding glad. Let<br>
-&nbsp;&nbsp;the earth break forth into singing. Let the dead speak forth<br>
-&nbsp;&nbsp;anthems of eternal praise to the King Immanuel, who hath ordained<br>
-&nbsp;&nbsp;before the world was, that which would enable us to redeem<br>
-&nbsp;&nbsp;them out of their prison; for the prisoners shall go free.<sup>[P]</sup><br>
-</p></blockquote>
-<p class="footnote">[Footnote P: Doc. &amp; Cov. 128:22.]
-</p><p></p>
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 52840 ***</div>
-</body>
-</html>
+In the words of the prophet, I shall conclude,
 
+  Brethren, shall we not go on in so great a cause? Go forward
+  and not backward. Courage, brethren; and on, on to the
+  victory! Let your hearts rejoice, and be exceeding glad. Let
+  the earth break forth into singing. Let the dead speak forth
+  anthems of eternal praise to the King Immanuel, who hath ordained
+  before the world was, that which would enable us to redeem
+  them out of their prison; for the prisoners shall go free.[P]
+
+[Footnote P: Doc. & Cov. 128:22.]
+
+
+
+
+
+End of Project Gutenberg's Salvation Universal, by Joseph Fielding Smith
+
+*** END OF THE PROJECT GUTENBERG EBOOK 52840 ***
